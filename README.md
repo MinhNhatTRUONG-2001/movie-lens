@@ -1,7 +1,7 @@
 # MovieLens recommender system
 
 ## Python version
-3.12.11
+3.12.12
 
 ## Database setup
 Download and install **SQLite** and **DB Browser for SQLite**. Then use the DB Browser to import the `movie-lens.db.sql` file (File -> Import -> Database from SQL file...).
